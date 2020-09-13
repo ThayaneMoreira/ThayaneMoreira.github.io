@@ -9,5 +9,5 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 :package: Nova funcionalidade
 :up: Atualização
-:beatle: Correção de bug
-:chekered_flag: Release
+:beetle: Correção de bug
+:checkered_flag: Release
