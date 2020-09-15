@@ -1,6 +1,5 @@
 # Portfolio
 
-https://thayanemoreira.github.io/
 
 
 ## Tarefas
