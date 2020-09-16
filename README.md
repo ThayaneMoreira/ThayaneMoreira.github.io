@@ -4,6 +4,7 @@ Portfólio criado para reunir projetos de Data Science.
 
 https://thayanemoreira.github.io/
 
+
 ## Tarefas
 
 O controle das tarefas desse projeto será realizado no GitHub
