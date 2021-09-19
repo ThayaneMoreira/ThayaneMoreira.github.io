@@ -1,6 +1,6 @@
 # Portfólio - EM CONSTRUÇÃO
 
-Portfólio criado para reunir projetos de Data Science.
+Portfólio criado para reunir projetos de Data Science e mostrar minha evolução na área.
 
 https://thayanemoreira.github.io/
 
